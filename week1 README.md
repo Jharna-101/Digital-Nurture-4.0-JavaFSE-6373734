@@ -9,5 +9,5 @@ Each folder includes:
 - Java source code
 - Output screenshots
 
-Krupa Mohan  
+Jharna Nanje Gowda
 REVA University
